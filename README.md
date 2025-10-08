@@ -14,4 +14,4 @@
 
 🌱 Currently: learning Machine Learning & Business Intelligence  
 
-I believe data can tell stories just like fairy tales 🧚‍♀️
+`I believe data can tell stories just like fairy tales 🧚‍♀️`
