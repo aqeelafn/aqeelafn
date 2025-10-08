@@ -1,18 +1,17 @@
 # 🌸 Aqeela Fathya Najwa
 👩‍💻 Pronouns: she/her
 
-```text
-Data Enthusiast | Bachelor of Data Science
-```
-✨ Turning messy data into pretty insights & dashboards
+`Data Enthusiast | Bachelor of Data Science`
 
-📊 Loves: Python | SQL | Excel | Tableau | Power BI
+✨ Turning messy data into pretty insights & dashboards  
 
-💌 Connect with me:
-🔗 LinkedIn: linkedin.com/in/aqeelafn/
+📊 Loves: Python | SQL | Excel | Tableau | Power BI  
 
-📸 Instagram: instagram.com/keylaqn
+💌 Connect with me:  
+🔗 LinkedIn: [aqeelafn](https://www.linkedin.com/in/aqeelafn/)  
+📧 Email: [aqeelafathya@gmail.com](mailto:aqeelafathya@gmail.com)  
+📸 Instagram: [@keylaqn](https://www.instagram.com/keylaqn/)  
 
-🌱 Currently: learning Machine Learning & Business Intelligence
+🌱 Currently: learning Machine Learning & Business Intelligence  
 
-💡 I believe data can tell stories just like fairy tales 🧚‍♀️
+I believe data can tell stories just like fairy tales 🧚‍♀️
